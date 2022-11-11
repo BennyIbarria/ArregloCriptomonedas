@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ArregloCriptoMonedas\\ArregloCriptoMonedas.csproj": {}
+  },
+  "projects": {
+    "D:\\ArregloCriptoMonedas\\ArregloCriptoMonedas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ArregloCriptoMonedas\\ArregloCriptoMonedas.csproj",
+        "projectName": "ArregloCriptoMonedas",
+        "projectPath": "D:\\ArregloCriptoMonedas\\ArregloCriptoMonedas.csproj",
+        "packagesPath": "C:\\Users\\topet\\.nuget\\packages\\",
+        "outputPath": "D:\\ArregloCriptoMonedas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\topet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

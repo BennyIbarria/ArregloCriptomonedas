@@ -1,0 +1,15 @@
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ArregloCriptoMonedas.exe
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ArregloCriptoMonedas.deps.json
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ArregloCriptoMonedas.runtimeconfig.json
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ArregloCriptoMonedas.dll
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ref\ArregloCriptoMonedas.dll
+D:\ArregloCriptoMonedas\bin\Debug\net6.0\ArregloCriptoMonedas.pdb
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.csproj.AssemblyReference.cache
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.AssemblyInfoInputs.cache
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.AssemblyInfo.cs
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.csproj.CoreCompileInputs.cache
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.dll
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ref\ArregloCriptoMonedas.dll
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.pdb
+D:\ArregloCriptoMonedas\obj\Debug\net6.0\ArregloCriptoMonedas.genruntimeconfig.cache
