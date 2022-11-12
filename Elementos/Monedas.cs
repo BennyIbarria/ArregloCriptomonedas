@@ -26,10 +26,10 @@ namespace ArregloCripto
         {
             CriptoCoin[] arregloMoneda = 
             {
-                    new CriptoCoin(){Nombre = "Bitcoin", ID = "BTC", Precio=17563.45f},
-                    new CriptoCoin(){Nombre = "Ethereum", ID = "ETH",Precio = 1297.74f},
+                    new CriptoCoin(){Nombre = "Bitcoin", ID = "BTC", Precio=15343.45f},
+                    new CriptoCoin(){Nombre = "Ethereum", ID = "ETH",Precio = 12957.74f},
                     new CriptoCoin(){Nombre = "Tether",ID = "USDT", Precio = 1.0f},
-                    new CriptoCoin(){Nombre = "BNB", ID = "BNB",Precio = 302.90f},
+                    new CriptoCoin(){Nombre = "BNB", ID = "BNB",Precio = 303.90f},
                     new CriptoCoin(){Nombre = "USDCOIN", ID = "USDC", Precio = 1.0f},
                     new CriptoCoin(){Nombre = "BINANCEUSD", ID = "BUSD", Precio = 1.0f},
                     new CriptoCoin(){ Nombre = "XRP", ID = "XRP", Precio = 0.3962f},
